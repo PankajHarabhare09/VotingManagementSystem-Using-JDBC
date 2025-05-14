@@ -10,20 +10,6 @@ The **Voting Management System** is a Java-based application designed to manage 
 - Cast and record votes securely.
 - Generate and display election results.
 
-## Project Structure
-electionCommission1/
-├── src/
-│ └── com/election/
-│ ├── dao/ # Database connection
-│ ├── entity/ # Factory and core entities
-│ ├── service/ # Service interfaces
-│ ├── service/implementation/ # Implementations of services
-│ └── test/ # Test class (e.g., Choice.java)
-├── bin/ # Compiled class files
-├── .classpath # Eclipse classpath config
-├── .project # Eclipse project config
-└── .settings/ # Eclipse project settings
-
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
 - Eclipse IDE for Java Developers
